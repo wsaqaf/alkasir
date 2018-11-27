@@ -5,9 +5,8 @@
 Alkasir is a cross-platform, open-source and robust website censorship
 circumvention tool that also maps censorship patterns around the world.
 
-See [alkasir.com](https://alkasir.com) for general information about the
-software.
+The proxy service that was hosted on [alkasir.com](https://alkasir.com) and offered free of charge will be suspended in the end of November. If you wish to continue using the software, you can freely use the open-source code here without warranty.
 
 ## Hacking
 
-Se [hacking](hacking.md) for information on how to set up an development environment.
+Se [hacking](hacking.md) for information on how to set up a development environment.
